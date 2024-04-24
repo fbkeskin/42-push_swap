@@ -4,7 +4,7 @@
   <img src="https://i.redd.it/owgc2k3v0yz91.jpg"/>
   
   <p align="center">
-	<h4><i>Because Swap_push isn’t as natural</i><br>
+	<h4>Because Swap_push isn’t as natural.<br>
   </p></h4>
   <p align="center">
     <i>Push swap projesi etkili bir algoritma projesidir: veriler sıralanmalıdır. Elinizde bir integer array, 2 stack ve bu stackleri manipüle etmek için bir instruction setiniz var.</i>
@@ -32,11 +32,32 @@ make
 3. Sıralamak istediğiniz sayıları argüman olarak girin ve `push_swap` binary dosyasını execute ederek programı başlatın:
 ```shell
 $>./push_swap 2 1 3 6 5 8
-sa
+ra
 pb
 pb
 pb
-sa
+ra
+ra
+pa
+pa
+pa
+pb
+ra
+pb
+pb
+ra
+pb
+pa
+pa
+pa
+pa
+pb
+ra
+pb
+ra
+pb
+pb
+pa
 pa
 pa
 pa
