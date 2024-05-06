@@ -16,10 +16,10 @@
 </div>
 
 ## 📝Usage
-1. Repo'yu clone'layın:
+1. Repo'yu clone'layın: 
 
 ```bash
-git clone 
+git clone https://github.com/fbkeskin/42-push_swap.git
 ```
 
 2. Makefile'ı kullanarak source kodu derleyin:
