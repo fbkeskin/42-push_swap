@@ -75,15 +75,15 @@ Error
 |:-------------:|---------------|
 | sa            | A stack'inin en üstteki iki elemanı birbirileri ile yer değiştirir.   |
 | sb            | B stack'inin en üstteki iki elemanı birbirileri ile yer değiştirir.   |
-| ss            | sa ve sb instructions aynı aynda çalıştırılır.                        |
+| ss            | sa ve sb instructions aynı anda çalıştırılır.                        |
 | pa            | B stack'inin en üstündeki elemanı A stack'inin en üstüne koyulur.     |
 | pb            | A stack'inin en üstündeki elemanı B stack'inin en üstüne koyulur.     |
 | ra            | A stack'inin bütün elemanlarını bir yukarı kaydırılır.                |
 | rb            | B stack'inin bütün elemanlarını bir yukarı kaydırılır.                |
-| rr            | ra ve rb instructions aynı aynda çalıştırılır.                        |
-| rra           | A stack'inin bütün elemanlarını bir aşağı kaydırılır.                 |
-| rrb           | B stack'inin bütün elemanlarını bir aşağı kaydırılır.                 |
-| rrr           | rra ve rrb instructions aynı aynda çalıştırılır.                      |
+| rr            | ra ve rb instructions aynı anda çalıştırılır.                        |
+| rra           | A stack'inin bütün elemanları bir aşağı kaydırılır.                 |
+| rrb           | B stack'inin bütün elemanları bir aşağı kaydırılır.                 |
+| rrr           | rra ve rrb instructions aynı anda çalıştırılır.                      |
 
 
 
